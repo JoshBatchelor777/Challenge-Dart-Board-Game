@@ -1,0 +1,11 @@
+c:\users\student\Desktop\TechAcademy\C#\PROJECTS\ChallengeDartBoard\ChallengeDartBoard\bin\Debug\ChallengeDartBoard.exe.config
+C:\Users\Student\Desktop\TechAcademy\C#\PROJECTS\ChallengeDartBoard\ChallengeDartBoard\bin\Debug\ChallengeDartBoard.exe
+C:\Users\Student\Desktop\TechAcademy\C#\PROJECTS\ChallengeDartBoard\ChallengeDartBoard\bin\Debug\ChallengeDartBoard.pdb
+C:\Users\Student\Desktop\TechAcademy\C#\PROJECTS\ChallengeDartBoard\ChallengeDartBoard\obj\Debug\ChallengeDartBoard.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\TechAcademy\C#\PROJECTS\ChallengeDartBoard\ChallengeDartBoard\obj\Debug\ChallengeDartBoard.Default.resources
+C:\Users\Student\Desktop\TechAcademy\C#\PROJECTS\ChallengeDartBoard\ChallengeDartBoard\obj\Debug\ChallengeDartBoard.Properties.Resources.resources
+C:\Users\Student\Desktop\TechAcademy\C#\PROJECTS\ChallengeDartBoard\ChallengeDartBoard\obj\Debug\ChallengeDartBoard.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\TechAcademy\C#\PROJECTS\ChallengeDartBoard\ChallengeDartBoard\obj\Debug\ChallengeDartBoard.exe
+C:\Users\Student\Desktop\TechAcademy\C#\PROJECTS\ChallengeDartBoard\ChallengeDartBoard\obj\Debug\ChallengeDartBoard.pdb
+C:\Users\Student\Desktop\TechAcademy\C#\PROJECTS\ChallengeDartBoard\ChallengeDartBoard\bin\Debug\Darts.dll
+C:\Users\Student\Desktop\TechAcademy\C#\PROJECTS\ChallengeDartBoard\ChallengeDartBoard\bin\Debug\Darts.pdb

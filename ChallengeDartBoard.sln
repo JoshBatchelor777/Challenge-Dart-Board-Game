@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeDartBoard", "ChallengeDartBoard\ChallengeDartBoard.csproj", "{B9079FEF-2683-48FD-8CB4-C31F083C9425}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Darts", "Darts\Darts.csproj", "{1CEFF115-7C3E-4E83-9201-F2B7FF7D1178}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9079FEF-2683-48FD-8CB4-C31F083C9425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9079FEF-2683-48FD-8CB4-C31F083C9425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9079FEF-2683-48FD-8CB4-C31F083C9425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9079FEF-2683-48FD-8CB4-C31F083C9425}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CEFF115-7C3E-4E83-9201-F2B7FF7D1178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CEFF115-7C3E-4E83-9201-F2B7FF7D1178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CEFF115-7C3E-4E83-9201-F2B7FF7D1178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CEFF115-7C3E-4E83-9201-F2B7FF7D1178}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
